@@ -18,6 +18,14 @@ h2 {
     color: darkslategray;
 }
 
+main > section1 {
+    color: darkblue;
+}
+
+main > section2 {
+    color: black;
+}
+
 header {
     background-color: burlywood;
 }
